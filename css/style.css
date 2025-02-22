@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'OPPOSans-Regular';
+  src: url('../fonts/OPPOSans-Regular.ttf') format('truetype');
+}
+
+* {
+  font-family: 'OPPOSans-Regular', sans-serif;
+}
+
+.cont {
+  margin-top: 56px;
+}
+
+.bg-oppo {
+  background-color: #32BEA6;
+}
+
+.btn-oppo {
+  background-color: #32BEA6;
+  color: white;
+  transition: all 300ms;
+}
+
+.btn-oppo:hover {
+  background-color: #60BEA6;
+  color: white;
+}
+
+header {
+  height: 100vh;
+}
+
+.hero {
+  height: 20rem;
+  border-radius: 8px;
+}
