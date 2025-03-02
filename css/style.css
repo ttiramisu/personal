@@ -12,17 +12,17 @@
 }
 
 .bg-oppo {
-  background-color: #32BEA6;
+  background-color: #046a38;
 }
 
 .btn-oppo {
-  background-color: #32BEA6;
-  color: black;
+  background-color: #046a38;
+  color: white;
   transition: all 300ms;
 }
 
 .btn-oppo:hover {
-  background-color: #60BEA6;
+  background-color: #079952;
   color: black;
 }
 
@@ -38,9 +38,4 @@ header {
   display: block;
   margin: 0 auto;
   border-radius: 8px;
-}
-
-.container h1,
-.container p {
-  color: #000000;
 }
